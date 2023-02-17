@@ -1,2 +1,1 @@
-Console.Writeline("hghg");
-return 1;
+﻿Console.WriteLine("გაუმარჯოს ძმებო");
