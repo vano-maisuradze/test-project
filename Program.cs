@@ -1,1 +1,2 @@
-﻿Console.WriteLine("გაუმარჯოს ძმებო");
+﻿Console.WriteLine("Maga");
+Console.WriteLine("გაუმარჯოს ძმებო");
