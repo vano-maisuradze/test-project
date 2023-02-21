@@ -1,5 +1,4 @@
 public class Program
 {
-    Console.WriteLine("jer dapule da mere dapusheo natqvamia");
+    Console.WriteLine("jer dapule da mere dapusheo natqvamia.");
 }
-
