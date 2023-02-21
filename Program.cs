@@ -1,1 +1,4 @@
-﻿Console.WriteLine("გაუმარჯოს ძმებო");
+public class Program
+{
+    Console.WriteLine("jer dapule da mere dapusheo natqvamia.");
+}
